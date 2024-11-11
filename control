@@ -1,7 +1,7 @@
 Package: moe.misty.bindfsmount
 Name: mount_bindfs
-Version: 0.0.1
-Architecture: iphoneos-arm
+Version: 0.0.2-1
+Architecture: iphoneos-arm64
 Description: An awesome tool of some sort!!
 Maintainer: misty
 Author: misty
