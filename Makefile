@@ -1,5 +1,5 @@
 TARGET := iphone:clang:14.3:7.0
-ARCHS = arm64 arm64e
+ARCHS = arm64
 include $(THEOS)/makefiles/common.mk
 
 TOOL_NAME = mount_bindfs listvfs testchroot
